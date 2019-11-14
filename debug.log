@@ -1,0 +1,7 @@
+[0216/120507:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: The system cannot find the path specified. (0x3)
+[0216/120507:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0216/120507:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: The system cannot find the path specified. (0x3)
+[0510/203320.853:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0510/203320.874:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0510/203320.879:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0510/203321.430:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
